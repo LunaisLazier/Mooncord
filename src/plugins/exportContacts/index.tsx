@@ -57,7 +57,7 @@ function getUsernames(contacts: ContactsList[], type: number): string[] {
 export default definePlugin({
     name: "ExportContacts",
     description: "Export a list of friends to your clipboard. Adds a new button to the menu bar for the friends tab.",
-    authors: [Devs.dat_insanity],
+    authors: [Devs.Ven],
     patches: [
         {
             find: "fetchRelationships(){",
