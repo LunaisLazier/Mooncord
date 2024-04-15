@@ -442,6 +442,10 @@ export const Devs = /* #__PURE__*/ Object.freeze({
         name: "dat_insanity",
         id: 896891667469172778n
     }
+    D3SOX: {
+        name: "dropped#0001",
+        id: 328165170536775680n
+    }
 } satisfies Record<string, Dev>);
 
 // iife so #__PURE__ works correctly
