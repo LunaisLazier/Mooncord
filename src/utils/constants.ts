@@ -502,6 +502,10 @@ export const Devs = /* #__PURE__*/ Object.freeze({
         name: "ScattrdBlade",
         id: 678007540608532491n
     },
+    nyx: {
+        name: "verticalsync",
+        id: 328165170536775680n
+    },
     
 } satisfies Record<string, Dev>);
 
